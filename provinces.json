@@ -1,6 +1,7 @@
 [
     {
         "id": "11",
+        "island_id": "1",
         "name": "ACEH",
         "alt_name": "ACEH",
         "latitude": "4.36855",
@@ -9,22 +10,25 @@
     },
     {
         "id": "12",
-        "name": "SUMATERA UTARA",
-        "alt_name": "SUMATERA UTARA",
+        "island_id": "1",
+        "name": "SUMATRA UTARA",
+        "alt_name": "SUMATRA UTARA",
         "latitude": "2.19235",
         "longitude": "99.38122",
         "iso_code": "SU"
     },
     {
         "id": "13",
-        "name": "SUMATERA BARAT",
-        "alt_name": "SUMATERA BARAT",
+        "island_id": "1",
+        "name": "SUMATRA BARAT",
+        "alt_name": "SUMATRA BARAT",
         "latitude": "-1.34225",
         "longitude": "100.0761",
         "iso_code": "SB"
     },
     {
         "id": "14",
+        "island_id": "1",
         "name": "RIAU",
         "alt_name": "RIAU",
         "latitude": "0.50041",
@@ -33,6 +37,7 @@
     },
     {
         "id": "15",
+        "island_id": "1",
         "name": "JAMBI",
         "alt_name": "JAMBI",
         "latitude": "-1.61157",
@@ -41,14 +46,16 @@
     },
     {
         "id": "16",
-        "name": "SUMATERA SELATAN",
-        "alt_name": "SUMATERA SELATAN",
+        "island_id": "1",
+        "name": "SUMATRA SELATAN",
+        "alt_name": "SUMATRA SELATAN",
         "latitude": "-3.12668",
         "longitude": "104.09306",
         "iso_code": "SE"
     },
     {
         "id": "17",
+        "island_id": "1",
         "name": "BENGKULU",
         "alt_name": "BENGKULU",
         "latitude": "-3.51868",
@@ -57,6 +64,7 @@
     },
     {
         "id": "18",
+        "island_id": "1",
         "name": "LAMPUNG",
         "alt_name": "LAMPUNG",
         "latitude": "-4.8555",
@@ -65,6 +73,7 @@
     },
     {
         "id": "19",
+        "island_id": "1",
         "name": "KEPULAUAN BANGKA BELITUNG",
         "alt_name": "KEPULAUAN BANGKA BELITUNG",
         "latitude": "-2.75775",
@@ -73,6 +82,7 @@
     },
     {
         "id": "21",
+        "island_id": "1",
         "name": "KEPULAUAN RIAU",
         "alt_name": "KEPULAUAN RIAU",
         "latitude": "-0.15478",
@@ -81,6 +91,7 @@
     },
     {
         "id": "31",
+        "island_id": "2",
         "name": "DKI JAKARTA",
         "alt_name": "DKI JAKARTA",
         "latitude": "6.1745",
@@ -89,6 +100,7 @@
     },
     {
         "id": "32",
+        "island_id": "2",
         "name": "JAWA BARAT",
         "alt_name": "JAWA BARAT",
         "latitude": "-6.88917",
@@ -97,6 +109,7 @@
     },
     {
         "id": "33",
+        "island_id": "2",
         "name": "JAWA TENGAH",
         "alt_name": "JAWA TENGAH",
         "latitude": "-7.30324",
@@ -105,6 +118,7 @@
     },
     {
         "id": "34",
+        "island_id": "2",
         "name": "DI YOGYAKARTA",
         "alt_name": "DI YOGYAKARTA",
         "latitude": "7.7956",
@@ -113,6 +127,7 @@
     },
     {
         "id": "35",
+        "island_id": "2",
         "name": "JAWA TIMUR",
         "alt_name": "JAWA TIMUR",
         "latitude": "-6.96851",
@@ -121,6 +136,7 @@
     },
     {
         "id": "36",
+        "island_id": "2",
         "name": "BANTEN",
         "alt_name": "BANTEN",
         "latitude": "-6.44538",
@@ -129,6 +145,7 @@
     },
     {
         "id": "51",
+        "island_id": "3",
         "name": "BALI",
         "alt_name": "BALI",
         "latitude": "-8.23566",
@@ -137,6 +154,7 @@
     },
     {
         "id": "52",
+        "island_id": "3",
         "name": "NUSA TENGGARA BARAT",
         "alt_name": "NUSA TENGGARA BARAT",
         "latitude": "-8.12179",
@@ -145,6 +163,7 @@
     },
     {
         "id": "53",
+        "island_id": "3",
         "name": "NUSA TENGGARA TIMUR",
         "alt_name": "NUSA TENGGARA TIMUR",
         "latitude": "-8.56568",
@@ -153,6 +172,7 @@
     },
     {
         "id": "61",
+        "island_id": "4",
         "name": "KALIMANTAN BARAT",
         "alt_name": "KALIMANTAN BARAT",
         "latitude": "-0.13224",
@@ -161,6 +181,7 @@
     },
     {
         "id": "62",
+        "island_id": "4",
         "name": "KALIMANTAN TENGAH",
         "alt_name": "KALIMANTAN TENGAH",
         "latitude": "-1.49958",
@@ -169,6 +190,7 @@
     },
     {
         "id": "63",
+        "island_id": "4",
         "name": "KALIMANTAN SELATAN",
         "alt_name": "KALIMANTAN SELATAN",
         "latitude": "-2.94348",
@@ -177,6 +199,7 @@
     },
     {
         "id": "64",
+        "island_id": "4",
         "name": "KALIMANTAN TIMUR",
         "alt_name": "KALIMANTAN TIMUR",
         "latitude": "0.78844",
@@ -185,6 +208,7 @@
     },
     {
         "id": "65",
+        "island_id": "4",
         "name": "KALIMANTAN UTARA",
         "alt_name": "KALIMANTAN UTARA",
         "latitude": "2.72594",
@@ -193,6 +217,7 @@
     },
     {
         "id": "71",
+        "island_id": "5",
         "name": "SULAWESI UTARA",
         "alt_name": "SULAWESI UTARA",
         "latitude": "0.65557",
@@ -201,6 +226,7 @@
     },
     {
         "id": "72",
+        "island_id": "5",
         "name": "SULAWESI TENGAH",
         "alt_name": "SULAWESI TENGAH",
         "latitude": "-1.69378",
@@ -209,6 +235,7 @@
     },
     {
         "id": "73",
+        "island_id": "5",
         "name": "SULAWESI SELATAN",
         "alt_name": "SULAWESI SELATAN",
         "latitude": "-3.64467",
@@ -217,6 +244,7 @@
     },
     {
         "id": "74",
+        "island_id": "5",
         "name": "SULAWESI TENGGARA",
         "alt_name": "SULAWESI TENGGARA",
         "latitude": "-3.54912",
@@ -225,6 +253,7 @@
     },
     {
         "id": "75",
+        "island_id": "5",
         "name": "GORONTALO",
         "alt_name": "GORONTALO",
         "latitude": "0.71862",
@@ -233,6 +262,7 @@
     },
     {
         "id": "76",
+        "island_id": "5",
         "name": "SULAWESI BARAT",
         "alt_name": "SULAWESI BARAT",
         "latitude": "-2.49745",
@@ -241,6 +271,7 @@
     },
     {
         "id": "81",
+        "island_id": "6",
         "name": "MALUKU",
         "alt_name": "MALUKU",
         "latitude": "-3.11884",
@@ -249,6 +280,7 @@
     },
     {
         "id": "82",
+        "island_id": "6",
         "name": "MALUKU UTARA",
         "alt_name": "MALUKU UTARA",
         "latitude": "0.63012",
@@ -257,6 +289,7 @@
     },
     {
         "id": "91",
+        "island_id": "7",
         "name": "PAPUA BARAT",
         "alt_name": "PAPUA BARAT",
         "latitude": "-1.38424",
@@ -265,6 +298,7 @@
     },
     {
         "id": "94",
+        "island_id": "7",
         "name": "PAPUA",
         "alt_name": "PAPUA",
         "latitude": "-3.98857",
